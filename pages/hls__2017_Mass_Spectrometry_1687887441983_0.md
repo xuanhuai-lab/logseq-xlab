@@ -1,0 +1,45 @@
+file:: [2017_Mass_Spectrometry_1687887441983_0.pdf](../assets/2017_Mass_Spectrometry_1687887441983_0.pdf)
+file-path:: ../assets/2017_Mass_Spectrometry_1687887441983_0.pdf
+
+- [:span]
+  ls-type:: annotation
+  hl-page:: 27
+  hl-color:: yellow
+  id:: 649bc2c2-7cbb-413e-8c97-af72fe860766
+  hl-type:: area
+  hl-stamp:: 1687929538025
+- [:span]
+  ls-type:: annotation
+  hl-page:: 29
+  hl-color:: yellow
+  id:: 649bc3d6-4f03-43c6-8fd6-6c6f7c127abc
+  hl-type:: area
+  hl-stamp:: 1687929813410
+- [:span]
+  ls-type:: annotation
+  hl-page:: 34
+  hl-color:: yellow
+  id:: 649bc3f5-2e7b-4fcb-9685-84537273248e
+  hl-type:: area
+  hl-stamp:: 1687929844742
+- [:span]
+  ls-type:: annotation
+  hl-page:: 966
+  hl-color:: yellow
+  id:: 649bc43d-841d-4ce4-bf99-932558747b59
+  hl-type:: area
+  hl-stamp:: 1687929916194
+- [:span]
+  ls-type:: annotation
+  hl-page:: 178
+  hl-color:: yellow
+  id:: 649bc4ed-1d2c-47bc-b3d5-0bbbce13ff85
+  hl-type:: area
+  hl-stamp:: 1687930092564
+- [:span]
+  ls-type:: annotation
+  hl-page:: 970
+  hl-color:: yellow
+  id:: 649bc56c-1baa-4623-ae0f-704a6ed8a917
+  hl-type:: area
+  hl-stamp:: 1687930222541
