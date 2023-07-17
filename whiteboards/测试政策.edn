@@ -1,0 +1,125 @@
+{:blocks (
+{:block/created-at 1689597045612
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:rotation 0
+:collapsed false
+:borderRadius 8
+:index 0
+:scale [1 1]
+:pageId "64b5331f-a350-438e-82e5-42bad9b3df12"
+:scaleLevel "md"
+:fill ""
+:compact false
+:isAutoResizing true
+:type "logseq-portal"
+:size [480 382]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "ba9a8be0-249d-11ee-9bc7-bba6f30bd3b6"
+:noFill false
+:isLocked false
+:point [184 72]
+:parentId "64b53455-17b1-4a2d-8574-1bd7ee118f69"
+:collapsedHeight 0
+:nonce 1689597035537}}
+:block/updated-at 1689597045612} 
+{:block/created-at 1689597042793
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 1
+:scale [1 1]
+:pageId "64b532d0-cd2a-4954-a923-982a58708128"
+:scaleLevel "md"
+:fill ""
+:compact false
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 276.7187586825401]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "beede070-249d-11ee-9bc7-bba6f30bd3b6"
+:noFill false
+:isLocked false
+:point [868.6950988360829 384.54166912225435]
+:parentId "64b53455-17b1-4a2d-8574-1bd7ee118f69"
+:collapsedHeight 0
+:nonce 1689597042680}}
+:block/updated-at 1689597042793} 
+{:block/created-at 1689597045614
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 2
+:scale [1 1]
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "beee55a0-249d-11ee-9bc7-bba6f30bd3b6"
+:fontWeight 400
+:noFill true
+:point [665 360.16]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 0]
+:bindingId "beee55a1-249d-11ee-9bc7-bba6f30bd3b6"}
+:end 
+{:id "end"
+:canBind true
+:point [199.7 80.5]
+:bindingId "beee55a2-249d-11ee-9bc7-bba6f30bd3b6"}}
+:decorations 
+{:end "arrow"}
+:parentId "64b53455-17b1-4a2d-8574-1bd7ee118f69"
+:nonce 1689597042719
+:italic false}}
+:block/updated-at 1689597045614})
+:pages (
+{:block/uuid #uuid "64b53455-17b1-4a2d-8574-1bd7ee118f69"
+:block/properties 
+{:ls-type :whiteboard-page
+:logseq.tldraw.page 
+{:id "64b53455-17b1-4a2d-8574-1bd7ee118f69"
+:name "测试政策"
+:bindings 
+{:beee55a1-249d-11ee-9bc7-bba6f30bd3b6 
+{:id "beee55a1-249d-11ee-9bc7-bba6f30bd3b6"
+:type "line"
+:fromId "beee55a0-249d-11ee-9bc7-bba6f30bd3b6"
+:toId "ba9a8be0-249d-11ee-9bc7-bba6f30bd3b6"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:beee55a2-249d-11ee-9bc7-bba6f30bd3b6 
+{:id "beee55a2-249d-11ee-9bc7-bba6f30bd3b6"
+:type "line"
+:fromId "beee55a0-249d-11ee-9bc7-bba6f30bd3b6"
+:toId "beede070-249d-11ee-9bc7-bba6f30bd3b6"
+:handleId "end"
+:point [0.5 0.5]
+:distance 4}}
+:nonce 1
+:assets []
+:shapes-index ("ba9a8be0-249d-11ee-9bc7-bba6f30bd3b6" "beede070-249d-11ee-9bc7-bba6f30bd3b6" "beee55a0-249d-11ee-9bc7-bba6f30bd3b6")}}
+:block/updated-at 1689597093580
+:block/created-at 1689597013141
+:block/type "whiteboard"
+:block/name "测试政策"
+:block/original-name "测试政策"})}
