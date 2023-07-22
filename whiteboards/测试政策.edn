@@ -90,7 +90,108 @@
 :parentId "64b53455-17b1-4a2d-8574-1bd7ee118f69"
 :nonce 1689597042719
 :italic false}}
-:block/updated-at 1689597045614})
+:block/updated-at 1689597045614} 
+{:block/created-at 1689597305349
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:rotation 0
+:index 3
+:scale [1 1]
+:type "iframe"
+:size [856 528]
+:id "450d5b40-249e-11ee-9bc7-bba6f30bd3b6"
+:url "https://xuanhuai.wiki/"
+:isLocked false
+:point [1408 -280]
+:parentId "64b53455-17b1-4a2d-8574-1bd7ee118f69"
+:nonce 1689597267888}}
+:block/updated-at 1689597305349} 
+{:block/created-at 1689597298168
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:index 4
+:scale [1 1]
+:type "iframe"
+:size [853 480]
+:id "4d95ce00-249e-11ee-9bc7-bba6f30bd3b6"
+:url "https://www.bilibili.com/"
+:isLocked false
+:point [48 -648]
+:parentId "64b53455-17b1-4a2d-8574-1bd7ee118f69"
+:nonce 1689597282264}}
+:block/updated-at 1689597298168} 
+{:block/created-at 1689597332184
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 5
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "53450912-249e-11ee-9bc7-bba6f30bd3b6"
+:fontWeight 400
+:noFill true
+:point [902 -515.81]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 38.56]
+:bindingId "53450910-249e-11ee-9bc7-bba6f30bd3b6"}
+:end 
+{:id "end"
+:canBind true
+:point [238 0]
+:bindingId "62ee2131-249e-11ee-9bc7-bba6f30bd3b6"}}
+:decorations 
+{:end "arrow"}
+:parentId "64b53455-17b1-4a2d-8574-1bd7ee118f69"
+:nonce 1689597292025
+:italic false}}
+:block/updated-at 1689597332184} 
+{:block/content "编辑一些内容"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "64b53455-17b1-4a2d-8574-1bd7ee118f69"}
+:block/parent 
+{:block/uuid #uuid "64b53455-17b1-4a2d-8574-1bd7ee118f69"}
+:block/uuid #uuid "64b53581-e18b-4e70-a6dc-819384354610"} 
+{:block/created-at 1689597332185
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 6
+:scale [1 1]
+:pageId "64b53581-e18b-4e70-a6dc-819384354610"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 41]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "5d472380-249e-11ee-9bc7-bba6f30bd3b6"
+:noFill false
+:point [1144 -528]
+:parentId "64b53455-17b1-4a2d-8574-1bd7ee118f69"
+:collapsedHeight 0
+:nonce 1689597308408}}
+:block/updated-at 1689597332185})
 :pages (
 {:block/uuid #uuid "64b53455-17b1-4a2d-8574-1bd7ee118f69"
 :block/properties 
@@ -114,11 +215,36 @@
 :toId "beede070-249d-11ee-9bc7-bba6f30bd3b6"
 :handleId "end"
 :point [0.5 0.5]
+:distance 4}
+:53450910-249e-11ee-9bc7-bba6f30bd3b6 
+{:id "53450910-249e-11ee-9bc7-bba6f30bd3b6"
+:type "line"
+:fromId "53450912-249e-11ee-9bc7-bba6f30bd3b6"
+:toId "4d95ce00-249e-11ee-9bc7-bba6f30bd3b6"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:53450911-249e-11ee-9bc7-bba6f30bd3b6 
+{:id "53450911-249e-11ee-9bc7-bba6f30bd3b6"
+:type "line"
+:fromId "53450912-249e-11ee-9bc7-bba6f30bd3b6"
+:toId "450d5b40-249e-11ee-9bc7-bba6f30bd3b6"
+:handleId "end"
+:point [0.31 0.69]
+:distance 4}
+:62ee2131-249e-11ee-9bc7-bba6f30bd3b6 
+{:id "62ee2131-249e-11ee-9bc7-bba6f30bd3b6"
+:type "line"
+:fromId "53450912-249e-11ee-9bc7-bba6f30bd3b6"
+:toId "5d472380-249e-11ee-9bc7-bba6f30bd3b6"
+:handleId "end"
+:point [0.03 0.29]
 :distance 4}}
 :nonce 1
 :assets []
-:shapes-index ("ba9a8be0-249d-11ee-9bc7-bba6f30bd3b6" "beede070-249d-11ee-9bc7-bba6f30bd3b6" "beee55a0-249d-11ee-9bc7-bba6f30bd3b6")}}
-:block/updated-at 1689597093580
+:shapes-index ("ba9a8be0-249d-11ee-9bc7-bba6f30bd3b6" "beede070-249d-11ee-9bc7-bba6f30bd3b6" "beee55a0-249d-11ee-9bc7-bba6f30bd3b6" "450d5b40-249e-11ee-9bc7-bba6f30bd3b6" "4d95ce00-249e-11ee-9bc7-bba6f30bd3b6" "53450912-249e-11ee-9bc7-bba6f30bd3b6" "5d472380-249e-11ee-9bc7-bba6f30bd3b6")}}
+:block/journal? false
+:block/updated-at 1689597332183
 :block/created-at 1689597013141
 :block/type "whiteboard"
 :block/name "测试政策"
