@@ -1,0 +1,2235 @@
+{:blocks (
+{:block/created-at 1690093313037
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:rotation 0
+:index 0
+:scale [1 1]
+:fill ""
+:type "iframe"
+:size [624 1120]
+:id "61493520-290f-11ee-ba3f-47d6e5cefc1d"
+:url "https://mp.weixin.qq.com/s/1lqOLALxg0QbeDvIZOj_Wg"
+:isLocked false
+:point [-456 -16]
+:parentId "64bca8d2-a3f0-4be7-908e-4c29a2278441"
+:nonce 1690085653653}}
+:block/updated-at 1690093313037} 
+{:block/content "在中国科学技术大学（以下简称中国科大），一群喝着网红咖啡、野心十足的年轻人选择了“拥抱”。他们集中在最传统、最古老的学科——化学领域，从一个个不起眼的念头出发，打破研究的惯例，频频登上《自然》《科学》等国际一流期刊。他们要在科研范式的变革中，成为风暴的驾驭者。\r\n\r\n最初的念头：\r\n\r\n\r\n“有没有可能让计算机帮帮忙？”"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "64bcafe7-aba6-4703-acfe-2b8b278e666d"}
+:block/parent 
+{:block/uuid #uuid "64bcafe7-aba6-4703-acfe-2b8b278e666d"}
+:block/uuid #uuid "64bcaa0a-e929-456b-ad86-1f102a430102"} 
+{:block/content "学技术大学（以下简称中国科大），一群喝着网红咖啡、野心十足的年轻人选择了“拥抱”。他们集中在最传统、最古老的学科——化学领域，从一个个不起眼的念头出发，打破研究的惯例，频频登上《自然》《科学》等国际一流期刊。他们要在科研范式的变革中"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "64bcaa0a-e929-456b-ad86-1f102a430102"}
+:block/parent 
+{:block/uuid #uuid "64bcafe7-aba6-4703-acfe-2b8b278e666d"}
+:block/uuid #uuid "64bcaa12-067b-474d-94bd-e8e36b8ede6a"} 
+{:block/created-at 1690094418061
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:rotation 0
+:index 1
+:scale [1 1]
+:type "iframe"
+:size [1336 648]
+:id "220e1d70-2910-11ee-ba3f-47d6e5cefc1d"
+:url "http://staff.ustc.edu.cn/~jiangj1/AI-Chem-Syn-Cha-Test.mp4"
+:isLocked false
+:point [3936 3016]
+:parentId "64bca8d2-a3f0-4be7-908e-4c29a2278441"
+:nonce 1690085977049}}
+:block/updated-at 1690094418061} 
+{:block/created-at 1690093982396
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:rotation 0
+:index 2
+:scale [1 1]
+:type "pdf"
+:assetId "878a4f90-2913-11ee-a0c2-439ae7c8f2e9"
+:size [512 600]
+:opacity 1
+:id "878a76a0-2913-11ee-a0c2-439ae7c8f2e9"
+:url "../assets/An_all-round_AI-Chemist_with_a_scientific_mind_1690087088640_0.pdf"
+:isLocked false
+:point [432 216]
+:parentId "64bcafe7-aba6-4703-acfe-2b8b278e666d"
+:nonce 1690087436026}}
+:block/updated-at 1690093982396} 
+{:block/created-at 1690093982443
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 3
+:scale [1 1]
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "878a9db0-2913-11ee-a0c2-439ae7c8f2e9"
+:fontWeight 400
+:noFill true
+:point [169 524.75]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 8.72]
+:bindingId "878a9db1-2913-11ee-a0c2-439ae7c8f2e9"}
+:end 
+{:id "end"
+:canBind true
+:point [259 0]
+:bindingId "878a9db2-2913-11ee-a0c2-439ae7c8f2e9"}}
+:decorations 
+{:end "arrow"}
+:parentId "64bca8d2-a3f0-4be7-908e-4c29a2278441"
+:nonce 1690087435408
+:italic false}}
+:block/updated-at 1690093982443} 
+{:block/created-at 1690093923776
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:rotation 0
+:collapsed false
+:borderRadius 8
+:index 4
+:scale [1 1]
+:pageId "64bcb762-e849-42c9-b016-9cb1abc30a6e"
+:scaleLevel "md"
+:fill ""
+:compact false
+:isAutoResizing true
+:type "logseq-portal"
+:size [544 339.2500877380371]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "9bf50a40-291a-11ee-a0c2-439ae7c8f2e9"
+:noFill false
+:isLocked false
+:point [448 -232]
+:parentId "64bcafe7-aba6-4703-acfe-2b8b278e666d"
+:collapsedHeight 0
+:nonce 1690090476355}}
+:block/updated-at 1690093923776} 
+{:block/content "((64bcb3ed-0307-4b29-84e9-cdc4d6f8918b))"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "64bcaa12-067b-474d-94bd-e8e36b8ede6a"}
+:block/parent 
+{:block/uuid #uuid "64bcafe7-aba6-4703-acfe-2b8b278e666d"}
+:block/uuid #uuid "64bcbbff-757c-4765-a6b4-4a193c7f9349"} 
+{:block/created-at 1690091718857
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:rotation 0
+:collapsed false
+:borderRadius 8
+:index 5
+:scale [1 1]
+:pageId "64bcb3f1-3d1c-4e46-9c11-087d12179a08"
+:scaleLevel "md"
+:fill ""
+:compact false
+:isAutoResizing true
+:type "logseq-portal"
+:size [456 445.9478999126379]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "f2ca5960-291a-11ee-a0c2-439ae7c8f2e9"
+:noFill false
+:isLocked false
+:point [2272 -816]
+:parentId "64bcafe7-aba6-4703-acfe-2b8b278e666d"
+:collapsedHeight 0
+:nonce 1690090622213}}
+:block/updated-at 1690091718857} 
+{:block/created-at 1690093982443
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 6
+:scale [1 1]
+:scaleLevel "xxl"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label "全流程"
+:id "f2ca5961-291a-11ee-a0c2-439ae7c8f2e9"
+:fontWeight 700
+:noFill true
+:point [945 -451.03]
+:fontSize 60
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 809.73]
+:bindingId "f2ca5962-291a-11ee-a0c2-439ae7c8f2e9"}
+:end 
+{:id "end"
+:canBind true
+:point [1323 0]
+:bindingId "f2ca5963-291a-11ee-a0c2-439ae7c8f2e9"}}
+:decorations 
+{:end "arrow"}
+:parentId "64bcafe7-aba6-4703-acfe-2b8b278e666d"
+:nonce 1690090622085
+:italic false}}
+:block/updated-at 1690093982443} 
+{:block/created-at 1690093982440
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 7
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label "介绍视频"
+:id "16f0a6f0-291b-11ee-a0c2-439ae7c8f2e9"
+:fontWeight 700
+:noFill true
+:point [628.99 111.25]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [15.12 103.75]
+:bindingId "16f07fe0-291b-11ee-a0c2-439ae7c8f2e9"}
+:end 
+{:id "end"
+:canBind true
+:point [0 0]
+:bindingId "16f07fe1-291b-11ee-a0c2-439ae7c8f2e9"}}
+:decorations 
+{:end "arrow"}
+:parentId "64bcafe7-aba6-4703-acfe-2b8b278e666d"
+:nonce 1690090682283
+:italic false}}
+:block/updated-at 1690093982440} 
+{:block/created-at 1690093452675
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 9
+:scale [1 1]
+:scaleLevel "xl"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label "NLP"
+:id "2d2ec641-291b-11ee-a0c2-439ae7c8f2e9"
+:fontWeight 700
+:noFill true
+:point [1284 -1463.42]
+:fontSize 48
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [987 706.48]
+:bindingId "2d2ec642-291b-11ee-a0c2-439ae7c8f2e9"}
+:end 
+{:id "end"
+:canBind true
+:point [0 0]
+:bindingId "2d2ec643-291b-11ee-a0c2-439ae7c8f2e9"}}
+:decorations 
+{:end "arrow"}
+:parentId "64bcafe7-aba6-4703-acfe-2b8b278e666d"
+:nonce 1690090720336
+:italic false}}
+:block/updated-at 1690093452675} 
+{:block/created-at 1690093452678
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:rotation 0
+:collapsed false
+:borderRadius 8
+:index 8
+:scale [1 1]
+:pageId "64bcb504-9c66-4283-b2d5-6468f9ad9963"
+:scaleLevel "md"
+:fill ""
+:compact false
+:isAutoResizing true
+:type "logseq-portal"
+:size [704 771.5105097825912]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "2d2ec640-291b-11ee-a0c2-439ae7c8f2e9"
+:noFill false
+:isLocked false
+:point [576 -2104]
+:parentId "64bcafe7-aba6-4703-acfe-2b8b278e666d"
+:collapsedHeight 0
+:nonce 1690090720880}}
+:block/updated-at 1690093452678} 
+{:block/created-at 1690092812697
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 11
+:scale [1 1]
+:scaleLevel "xl"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label "前后端\nGUI"
+:id "3df694d1-291b-11ee-a0c2-439ae7c8f2e9"
+:fontWeight 700
+:noFill true
+:point [2110.21 -1781.25]
+:fontSize 48
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [316.32 964.25]
+:bindingId "3df694d2-291b-11ee-a0c2-439ae7c8f2e9"}
+:end 
+{:id "end"
+:canBind true
+:point [0 0]
+:bindingId "3df694d3-291b-11ee-a0c2-439ae7c8f2e9"}}
+:decorations 
+{:end "arrow"}
+:parentId "64bcafe7-aba6-4703-acfe-2b8b278e666d"
+:nonce 1690090748293
+:italic false}}
+:block/updated-at 1690092812697} 
+{:block/created-at 1690092812697
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:rotation 0
+:collapsed false
+:borderRadius 8
+:index 10
+:scale [1 1]
+:pageId "64bcb61e-4262-45fb-affb-39b2fa566dd7"
+:scaleLevel "md"
+:fill ""
+:compact false
+:isAutoResizing true
+:type "logseq-portal"
+:size [536 590.7500436257063]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "3df694d0-291b-11ee-a0c2-439ae7c8f2e9"
+:noFill false
+:isLocked false
+:point [1744 -2376]
+:parentId "64bcafe7-aba6-4703-acfe-2b8b278e666d"
+:collapsedHeight 0
+:nonce 1690090748537}}
+:block/updated-at 1690092812697} 
+{:block/content "((64bcbd38-36ac-4546-b0ca-81df82acc7a7))"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "64bcbbff-757c-4765-a6b4-4a193c7f9349"}
+:block/parent 
+{:block/uuid #uuid "64bcafe7-aba6-4703-acfe-2b8b278e666d"}
+:block/uuid #uuid "64bcbd43-8eb9-4f4c-a525-09801405a9b7"} 
+{:block/created-at 1690092822634
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:rotation 0
+:collapsed false
+:borderRadius 8
+:index 12
+:scale [1 1]
+:pageId "64bcbd43-8eb9-4f4c-a525-09801405a9b7"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [600 465.0417856584731]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "68a2f570-291b-11ee-a0c2-439ae7c8f2e9"
+:noFill false
+:isLocked false
+:point [3352 -2080]
+:parentId "64bcafe7-aba6-4703-acfe-2b8b278e666d"
+:collapsedHeight 0
+:nonce 1690090820524}}
+:block/updated-at 1690092822634} 
+{:block/created-at 1690092822634
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 13
+:scale [1 1]
+:scaleLevel "xl"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label "实验自动化"
+:id "68a31c80-291b-11ee-a0c2-439ae7c8f2e9"
+:fontWeight 700
+:noFill true
+:point [2705.68 -1610.96]
+:fontSize 48
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 793.96]
+:bindingId "68a31c81-291b-11ee-a0c2-439ae7c8f2e9"}
+:end 
+{:id "end"
+:canBind true
+:point [729.12 0]
+:bindingId "68a31c82-291b-11ee-a0c2-439ae7c8f2e9"}}
+:decorations 
+{:end "arrow"}
+:parentId "64bcafe7-aba6-4703-acfe-2b8b278e666d"
+:nonce 1690090820045
+:italic false}}
+:block/updated-at 1690092822634} 
+{:block/created-at 1690091191322
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:index 14
+:scale [1 1]
+:type "iframe"
+:size [853 480]
+:id "8e74d020-291b-11ee-a0c2-439ae7c8f2e9"
+:url "http://staff.ustc.edu.cn/~zyli/resumeChinese.html"
+:isLocked false
+:point [-1584 688]
+:parentId "64bcafe7-aba6-4703-acfe-2b8b278e666d"
+:nonce 1690090882714}}
+:block/updated-at 1690091191322} 
+{:block/created-at 1690093313040
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 15
+:scale [1 1]
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "8e751e40-291b-11ee-a0c2-439ae7c8f2e9"
+:fontWeight 400
+:noFill true
+:point [-727 662.59]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [270 0]
+:bindingId "8e751e41-291b-11ee-a0c2-439ae7c8f2e9"}
+:end 
+{:id "end"
+:canBind true
+:point [0 102.3]
+:bindingId "8e751e42-291b-11ee-a0c2-439ae7c8f2e9"}}
+:decorations 
+{:end "arrow"}
+:parentId "64bca8d2-a3f0-4be7-908e-4c29a2278441"
+:nonce 1690090882647
+:italic false}}
+:block/updated-at 1690093313040} 
+{:block/created-at 1690091191322
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:index 16
+:scale [1 1]
+:type "iframe"
+:size [853 480]
+:id "926c9730-291b-11ee-a0c2-439ae7c8f2e9"
+:url "http://staff.ustc.edu.cn/~jiangj1/"
+:isLocked false
+:point [-1600 72]
+:parentId "64bcafe7-aba6-4703-acfe-2b8b278e666d"
+:nonce 1690090889415}}
+:block/updated-at 1690091191322} 
+{:block/created-at 1690093313040
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 17
+:scale [1 1]
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "926c9731-291b-11ee-a0c2-439ae7c8f2e9"
+:fontWeight 400
+:noFill true
+:point [-743 409.01]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [286 64.45]
+:bindingId "926c9732-291b-11ee-a0c2-439ae7c8f2e9"}
+:end 
+{:id "end"
+:canBind true
+:point [0 0]
+:bindingId "926c9733-291b-11ee-a0c2-439ae7c8f2e9"}}
+:decorations 
+{:end "arrow"}
+:parentId "64bca8d2-a3f0-4be7-908e-4c29a2278441"
+:nonce 1690090889325
+:italic false}}
+:block/updated-at 1690093313040} 
+{:block/created-at 1690091492833
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 21
+:scale [1 1]
+:pageId "64bcb77f-54ef-4afa-a556-589fb3393239"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 99.66666163211235]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "5dedc230-291c-11ee-a0c2-439ae7c8f2e9"
+:noFill false
+:isLocked false
+:point [1312 1568]
+:parentId "64bcafe7-aba6-4703-acfe-2b8b278e666d"
+:collapsedHeight 0
+:nonce 1690091230899}}
+:block/updated-at 1690091492833} 
+{:block/created-at 1690093982443
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 19
+:scale [1 1]
+:scaleLevel "xxl"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label "研究实例"
+:id "69c18f62-291c-11ee-a0c2-439ae7c8f2e9"
+:fontWeight 700
+:noFill true
+:point [867.94 817]
+:fontSize 60
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 0]
+:bindingId "69c18f60-291c-11ee-a0c2-439ae7c8f2e9"}
+:end 
+{:id "end"
+:canBind true
+:point [446.55 747]
+:bindingId "69c18f61-291c-11ee-a0c2-439ae7c8f2e9"}}
+:decorations 
+{:end "arrow"}
+:parentId "64bcafe7-aba6-4703-acfe-2b8b278e666d"
+:nonce 1690091250663
+:italic false}}
+:block/updated-at 1690093982443} 
+{:block/created-at 1690091504657
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 20
+:scale [1 1]
+:scaleLevel "xl"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label "发光体"
+:id "95d37371-291c-11ee-a0c2-439ae7c8f2e9"
+:fontWeight 700
+:noFill true
+:point [1713 1349.68]
+:fontSize 48
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 218.06]
+:bindingId "95d37372-291c-11ee-a0c2-439ae7c8f2e9"}
+:end 
+{:id "end"
+:canBind true
+:point [875 0]
+:bindingId "95d37373-291c-11ee-a0c2-439ae7c8f2e9"}}
+:decorations 
+{:end "arrow"}
+:parentId "64bcafe7-aba6-4703-acfe-2b8b278e666d"
+:nonce 1690091324631
+:italic false}}
+:block/updated-at 1690091504657} 
+{:block/created-at 1690091481379
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:rotation 0
+:collapsed false
+:borderRadius 8
+:index 18
+:scale [1 1]
+:pageId "64bcb888-09ea-4121-92ef-497bf128c977"
+:scaleLevel "xl"
+:fill ""
+:compact false
+:isAutoResizing true
+:type "logseq-portal"
+:size [1256 752.354161682165]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "95d37370-291c-11ee-a0c2-439ae7c8f2e9"
+:noFill false
+:isLocked false
+:point [2592 816]
+:parentId "64bcafe7-aba6-4703-acfe-2b8b278e666d"
+:collapsedHeight 0
+:nonce 1690091324791}}
+:block/updated-at 1690091481379} 
+{:block/created-at 1690091483080
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 23
+:scale [1 1]
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "d7a9da00-291c-11ee-a0c2-439ae7c8f2e9"
+:fontWeight 400
+:noFill true
+:point [3849 1213.25]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 0]
+:bindingId "d7a9da01-291c-11ee-a0c2-439ae7c8f2e9"}
+:end 
+{:id "end"
+:canBind true
+:point [211 7.07]
+:bindingId "d7a9da02-291c-11ee-a0c2-439ae7c8f2e9"}}
+:decorations 
+{:end "arrow"}
+:parentId "64bcafe7-aba6-4703-acfe-2b8b278e666d"
+:nonce 1690091434972
+:italic false}}
+:block/updated-at 1690091483080} 
+{:block/created-at 1690091483082
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:rotation 0
+:collapsed false
+:borderRadius 8
+:index 22
+:scale [1 1]
+:pageId "64bcb8e7-b75e-4a38-9692-46d6354fa7c1"
+:scaleLevel "xl"
+:fill ""
+:compact false
+:isAutoResizing true
+:type "logseq-portal"
+:size [1008 522.6667389290149]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "d7a98be0-291c-11ee-a0c2-439ae7c8f2e9"
+:noFill false
+:isLocked false
+:point [4064 976]
+:parentId "64bcafe7-aba6-4703-acfe-2b8b278e666d"
+:collapsedHeight 0
+:nonce 1690091434997}}
+:block/updated-at 1690091483082} 
+{:block/created-at 1690094173174
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 25
+:scale [1 1]
+:scaleLevel "xl"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label "H-金属氧化物降解"
+:id "e0e485c1-291c-11ee-a0c2-439ae7c8f2e9"
+:fontWeight 700
+:noFill true
+:point [1631.78 1668.67]
+:fontSize 48
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 0]
+:bindingId "e0e485c2-291c-11ee-a0c2-439ae7c8f2e9"}
+:end 
+{:id "end"
+:canBind true
+:point [956.22 405.79]
+:bindingId "e0e485c3-291c-11ee-a0c2-439ae7c8f2e9"}}
+:decorations 
+{:end "arrow"}
+:parentId "64bcafe7-aba6-4703-acfe-2b8b278e666d"
+:nonce 1690091450557
+:italic false}}
+:block/updated-at 1690094173174} 
+{:block/created-at 1690094173170
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:rotation 0
+:collapsed false
+:borderRadius 8
+:index 24
+:scale [1 1]
+:pageId "64bcba11-cbdc-4974-ad03-39418eb815b6"
+:scaleLevel "xl"
+:fill ""
+:compact false
+:isAutoResizing true
+:type "logseq-portal"
+:size [1256 717.3334500400953]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "e0e485c0-291c-11ee-a0c2-439ae7c8f2e9"
+:noFill false
+:isLocked false
+:point [2592 1984]
+:parentId "64bcafe7-aba6-4703-acfe-2b8b278e666d"
+:collapsedHeight 0
+:nonce 1690091450479}}
+:block/updated-at 1690094173170} 
+{:block/created-at 1690094164686
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:rotation 0
+:collapsed false
+:borderRadius 8
+:index 26
+:scale [1 1]
+:pageId "64bcbb13-744e-443f-a07c-6d54eba7ad5a"
+:scaleLevel "xl"
+:fill ""
+:compact false
+:isAutoResizing true
+:type "logseq-portal"
+:size [1144 273.3332082623636]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "e82fe4a0-291c-11ee-a0c2-439ae7c8f2e9"
+:noFill false
+:isLocked false
+:point [4048 2224]
+:parentId "64bcafe7-aba6-4703-acfe-2b8b278e666d"
+:collapsedHeight 0
+:nonce 1690091462763}}
+:block/updated-at 1690094164686} 
+{:block/created-at 1690094173173
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 27
+:scale [1 1]
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "e8300bb0-291c-11ee-a0c2-439ae7c8f2e9"
+:fontWeight 400
+:noFill true
+:point [3849 2350.75]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 0]
+:bindingId "e8300bb1-291c-11ee-a0c2-439ae7c8f2e9"}
+:end 
+{:id "end"
+:canBind true
+:point [195 2.51]
+:bindingId "e8300bb2-291c-11ee-a0c2-439ae7c8f2e9"}}
+:decorations 
+{:end "arrow"}
+:parentId "64bcafe7-aba6-4703-acfe-2b8b278e666d"
+:nonce 1690091462713
+:italic false}}
+:block/updated-at 1690094173173} 
+{:block/created-at 1690094152786
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:rotation 0
+:collapsed false
+:borderRadius 8
+:index 28
+:scale [1 1]
+:pageId "64bcb981-47b9-4534-abf3-b981a9dd6319"
+:scaleLevel "xl"
+:fill ""
+:compact false
+:isAutoResizing true
+:type "logseq-portal"
+:size [1024 735.3329450935584]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "ee66ed50-291c-11ee-a0c2-439ae7c8f2e9"
+:noFill false
+:isLocked false
+:point [2584 3024]
+:parentId "64bcafe7-aba6-4703-acfe-2b8b278e666d"
+:collapsedHeight 0
+:nonce 1690091473488}}
+:block/updated-at 1690094152786} 
+{:block/created-at 1690094152789
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 29
+:scale [1 1]
+:scaleLevel "xl"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label "高熵合金"
+:id "34312352-291d-11ee-a0c2-439ae7c8f2e9"
+:fontWeight 700
+:noFill true
+:point [1591.94 1668.67]
+:fontSize 48
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 0]
+:bindingId "4e773651-291d-11ee-a0c2-439ae7c8f2e9"}
+:end 
+{:id "end"
+:canBind true
+:point [988.06 1473.59]
+:bindingId "34312351-291d-11ee-a0c2-439ae7c8f2e9"}}
+:decorations 
+{:end "arrow"}
+:parentId "64bcafe7-aba6-4703-acfe-2b8b278e666d"
+:nonce 1690091590480
+:italic false}}
+:block/updated-at 1690094152789} 
+{:block/created-at 1690094418059
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 30
+:scale [1 1]
+:scaleLevel "xl"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "46c685f2-291d-11ee-a0c2-439ae7c8f2e9"
+:fontWeight 400
+:noFill true
+:point [3609 3400.38]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 0]
+:bindingId "46c685f0-291d-11ee-a0c2-439ae7c8f2e9"}
+:end 
+{:id "end"
+:canBind true
+:point [323 5.49]
+:bindingId "46c685f1-291d-11ee-a0c2-439ae7c8f2e9"}}
+:decorations 
+{:end "arrow"}
+:parentId "64bcafe7-aba6-4703-acfe-2b8b278e666d"
+:nonce 1690091621544
+:italic false}}
+:block/updated-at 1690094418059} 
+{:block/content "((64bcc182-b5de-45d4-89fc-3c63e18839cf))"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "64bcbd43-8eb9-4f4c-a525-09801405a9b7"}
+:block/parent 
+{:block/uuid #uuid "64bcafe7-aba6-4703-acfe-2b8b278e666d"}
+:block/uuid #uuid "64bcc184-68ba-4460-839c-5b390ab7b1d8"} 
+{:block/content "((64bcc194-44fa-4b94-ad1c-be87fef0f976))"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "64bcc184-68ba-4460-839c-5b390ab7b1d8"}
+:block/parent 
+{:block/uuid #uuid "64bcafe7-aba6-4703-acfe-2b8b278e666d"}
+:block/uuid #uuid "64bcc196-d315-494e-a066-0fd5699ca193"} 
+{:block/content "((64bcc1a3-79a9-470b-a395-da34e22e470c))"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "64bcc196-d315-494e-a066-0fd5699ca193"}
+:block/parent 
+{:block/uuid #uuid "64bcafe7-aba6-4703-acfe-2b8b278e666d"}
+:block/uuid #uuid "64bcc1a6-9520-4658-8ca2-a0b68ca2372d"} 
+{:block/created-at 1690094251466
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 31
+:scale [1 1]
+:pageId "64bcc1a6-9520-4658-8ca2-a0b68ca2372d"
+:scaleLevel "xl"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 353.10392157480493]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "067a7370-291e-11ee-a0c2-439ae7c8f2e9"
+:noFill false
+:isLocked false
+:point [5256 -2584]
+:parentId "64bcafe7-aba6-4703-acfe-2b8b278e666d"
+:collapsedHeight 0
+:nonce 1690091943471}}
+:block/updated-at 1690094251466} 
+{:block/content "((64bcc182-b5de-45d4-89fc-3c63e18839cf))"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "64bcc1a6-9520-4658-8ca2-a0b68ca2372d"}
+:block/parent 
+{:block/uuid #uuid "64bcafe7-aba6-4703-acfe-2b8b278e666d"}
+:block/uuid #uuid "64bcc1c5-fdc7-4900-8705-bb212e3bd613"} 
+{:block/created-at 1690094251466
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 32
+:scale [1 1]
+:pageId "64bcc1c5-fdc7-4900-8705-bb212e3bd613"
+:scaleLevel "xl"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 371.771103115824]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "18eb8530-291e-11ee-a0c2-439ae7c8f2e9"
+:noFill false
+:isLocked false
+:point [4360 -2584]
+:parentId "64bcafe7-aba6-4703-acfe-2b8b278e666d"
+:collapsedHeight 0
+:nonce 1690091974055}}
+:block/updated-at 1690094251466} 
+{:block/content "((64bcc194-44fa-4b94-ad1c-be87fef0f976))"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "64bcc1c5-fdc7-4900-8705-bb212e3bd613"}
+:block/parent 
+{:block/uuid #uuid "64bcafe7-aba6-4703-acfe-2b8b278e666d"}
+:block/uuid #uuid "64bcc1c8-35b8-43d9-9452-0097a5e21bfe"} 
+{:block/created-at 1690094251466
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 33
+:scale [1 1]
+:pageId "64bcc1c8-35b8-43d9-9452-0097a5e21bfe"
+:scaleLevel "xl"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 391.25015597228594]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "1a692480-291e-11ee-a0c2-439ae7c8f2e9"
+:noFill false
+:isLocked false
+:point [4816 -2592]
+:parentId "64bcafe7-aba6-4703-acfe-2b8b278e666d"
+:collapsedHeight 0
+:nonce 1690091976630}}
+:block/updated-at 1690094251466} 
+{:block/content "((64bcc2bb-4ba1-44c8-b3a9-2d26028bb7fe))"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "64bcc1c8-35b8-43d9-9452-0097a5e21bfe"}
+:block/parent 
+{:block/uuid #uuid "64bcafe7-aba6-4703-acfe-2b8b278e666d"}
+:block/uuid #uuid "64bcc2bf-3a83-404f-818b-2753b5a6e7fb"} 
+{:block/created-at 1690094251461
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 34
+:scale [1 1]
+:pageId "64bcc2bf-3a83-404f-818b-2753b5a6e7fb"
+:scaleLevel "xl"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 357.9584060744464]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "ade4e140-291e-11ee-a0c2-439ae7c8f2e9"
+:noFill false
+:isLocked false
+:point [5696 -2584]
+:parentId "64bcafe7-aba6-4703-acfe-2b8b278e666d"
+:collapsedHeight 0
+:nonce 1690092223990}}
+:block/updated-at 1690094251461} 
+{:block/content "((64bcc2d2-e15f-495c-9ac8-a6e3ffead678))"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "64bcc2bf-3a83-404f-818b-2753b5a6e7fb"}
+:block/parent 
+{:block/uuid #uuid "64bcafe7-aba6-4703-acfe-2b8b278e666d"}
+:block/uuid #uuid "64bcc2d5-5237-4b2d-9ddc-9194f0a050ed"} 
+{:block/created-at 1690094261363
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 35
+:scale [1 1]
+:pageId "64bcc2d5-5237-4b2d-9ddc-9194f0a050ed"
+:scaleLevel "xl"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 331.645937352751]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "bad60550-291e-11ee-a0c2-439ae7c8f2e9"
+:noFill false
+:isLocked false
+:point [4424 -2064]
+:parentId "64bcafe7-aba6-4703-acfe-2b8b278e666d"
+:collapsedHeight 0
+:nonce 1690092245656}}
+:block/updated-at 1690094261363} 
+{:block/content "((64bcc369-654b-449f-840b-5191d08debad))"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "64bcc2d5-5237-4b2d-9ddc-9194f0a050ed"}
+:block/parent 
+{:block/uuid #uuid "64bcafe7-aba6-4703-acfe-2b8b278e666d"}
+:block/uuid #uuid "64bcc36d-2613-4996-91d9-969f4892c4c5"} 
+{:block/created-at 1690094261360
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 36
+:scale [1 1]
+:pageId "64bcc36d-2613-4996-91d9-969f4892c4c5"
+:scaleLevel "xl"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 352.49987177752774]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "15207e00-291f-11ee-a0c2-439ae7c8f2e9"
+:noFill false
+:isLocked false
+:point [4880 -2080]
+:parentId "64bcafe7-aba6-4703-acfe-2b8b278e666d"
+:collapsedHeight 0
+:nonce 1690092397106}}
+:block/updated-at 1690094261360} 
+{:block/content "((64bcc37a-04ab-4188-8d60-54673ce47980))"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "64bcc36d-2613-4996-91d9-969f4892c4c5"}
+:block/parent 
+{:block/uuid #uuid "64bcafe7-aba6-4703-acfe-2b8b278e666d"}
+:block/uuid #uuid "64bcc37b-fbf0-4476-b00f-5dcdfc1bf814"} 
+{:block/created-at 1690094261363
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 37
+:scale [1 1]
+:pageId "64bcc37b-fbf0-4476-b00f-5dcdfc1bf814"
+:scaleLevel "xl"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 359.12504343940924]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "1d9dcd30-291f-11ee-a0c2-439ae7c8f2e9"
+:noFill false
+:isLocked false
+:point [5336 -2080]
+:parentId "64bcafe7-aba6-4703-acfe-2b8b278e666d"
+:collapsedHeight 0
+:nonce 1690092411367}}
+:block/updated-at 1690094261363} 
+{:block/content "((64bcc3a1-84fc-496d-a59c-23b96876b531))"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "64bcc37b-fbf0-4476-b00f-5dcdfc1bf814"}
+:block/parent 
+{:block/uuid #uuid "64bcafe7-aba6-4703-acfe-2b8b278e666d"}
+:block/uuid #uuid "64bcc3a3-8aa2-4080-aa89-662fcd390281"} 
+{:block/created-at 1690092822634
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 38
+:scale [1 1]
+:pageId "64bcc3a3-8aa2-4080-aa89-662fcd390281"
+:scaleLevel "xl"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 348.06252349483077]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "359d72a0-291f-11ee-a0c2-439ae7c8f2e9"
+:noFill false
+:isLocked false
+:point [4440 -1608]
+:parentId "64bcafe7-aba6-4703-acfe-2b8b278e666d"
+:collapsedHeight 0
+:nonce 1690092451632}}
+:block/updated-at 1690092822634} 
+{:block/content "((64bcc3aa-79ab-4571-8d3f-1d78f83bc07e))"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "64bcc3a3-8aa2-4080-aa89-662fcd390281"}
+:block/parent 
+{:block/uuid #uuid "64bcafe7-aba6-4703-acfe-2b8b278e666d"}
+:block/uuid #uuid "64bcc3ad-31ac-4814-bffd-5acbcdaf7d96"} 
+{:block/content "((64bcc3aa-79ab-4571-8d3f-1d78f83bc07e))"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "64bcc3ad-31ac-4814-bffd-5acbcdaf7d96"}
+:block/parent 
+{:block/uuid #uuid "64bcafe7-aba6-4703-acfe-2b8b278e666d"}
+:block/uuid #uuid "64bcc3b1-c407-4851-beca-da70ac55cf5a"} 
+{:block/created-at 1690092822634
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 39
+:scale [1 1]
+:pageId "64bcc3b1-c407-4851-beca-da70ac55cf5a"
+:scaleLevel "xl"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 388.50010360665465]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "3dc01eb0-291f-11ee-a0c2-439ae7c8f2e9"
+:noFill false
+:isLocked false
+:point [4896 -1624]
+:parentId "64bcafe7-aba6-4703-acfe-2b8b278e666d"
+:collapsedHeight 0
+:nonce 1690092465245}}
+:block/updated-at 1690092822634} 
+{:block/content "((64bcc3b6-83b7-4ef6-be23-c2207c2371d6))"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "64bcc3b1-c407-4851-beca-da70ac55cf5a"}
+:block/parent 
+{:block/uuid #uuid "64bcafe7-aba6-4703-acfe-2b8b278e666d"}
+:block/uuid #uuid "64bcc3b7-5379-4b8c-89d5-274006f040da"} 
+{:block/created-at 1690092822634
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 40
+:scale [1 1]
+:pageId "64bcc3b7-5379-4b8c-89d5-274006f040da"
+:scaleLevel "xl"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 353.20843101863454]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "41b48a60-291f-11ee-a0c2-439ae7c8f2e9"
+:noFill false
+:isLocked false
+:point [5360 -1616]
+:parentId "64bcafe7-aba6-4703-acfe-2b8b278e666d"
+:collapsedHeight 0
+:nonce 1690092471910}}
+:block/updated-at 1690092822634} 
+{:block/content "((64bcc3e9-6adc-4ed6-bfda-e38a9ad49a0f))"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "64bcc3b7-5379-4b8c-89d5-274006f040da"}
+:block/parent 
+{:block/uuid #uuid "64bcafe7-aba6-4703-acfe-2b8b278e666d"}
+:block/uuid #uuid "64bcc3ea-deb6-4d5b-9e50-ae51257c662b"} 
+{:block/created-at 1690094266953
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 41
+:scale [1 1]
+:pageId "64bcc3ea-deb6-4d5b-9e50-ae51257c662b"
+:scaleLevel "xl"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 348.37497245248187]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "5fee45c0-291f-11ee-a0c2-439ae7c8f2e9"
+:noFill false
+:isLocked false
+:point [4368 -1064]
+:parentId "64bcafe7-aba6-4703-acfe-2b8b278e666d"
+:collapsedHeight 0
+:nonce 1690092522597}}
+:block/updated-at 1690094266953} 
+{:block/content "((64bcc3ff-c2df-4e8c-a196-98a70a204e50))"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "64bcc3ea-deb6-4d5b-9e50-ae51257c662b"}
+:block/parent 
+{:block/uuid #uuid "64bcafe7-aba6-4703-acfe-2b8b278e666d"}
+:block/uuid #uuid "64bcc400-e0b3-4f29-8c4c-4efdd904b496"} 
+{:block/created-at 1690094266953
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 42
+:scale [1 1]
+:pageId "64bcc400-e0b3-4f29-8c4c-4efdd904b496"
+:scaleLevel "xl"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 382.49993499457923]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "6cfd7920-291f-11ee-a0c2-439ae7c8f2e9"
+:noFill false
+:isLocked false
+:point [4832 -1080]
+:parentId "64bcafe7-aba6-4703-acfe-2b8b278e666d"
+:collapsedHeight 0
+:nonce 1690092544543}}
+:block/updated-at 1690094266953} 
+{:block/content "((64bcc408-4191-4162-8593-81222746b8de))"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "64bcc400-e0b3-4f29-8c4c-4efdd904b496"}
+:block/parent 
+{:block/uuid #uuid "64bcafe7-aba6-4703-acfe-2b8b278e666d"}
+:block/uuid #uuid "64bcc410-3378-4006-a364-3492031b6b47"} 
+{:block/content "((64bcc408-4191-4162-8593-81222746b8de))"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "64bcc410-3378-4006-a364-3492031b6b47"}
+:block/parent 
+{:block/uuid #uuid "64bcafe7-aba6-4703-acfe-2b8b278e666d"}
+:block/uuid #uuid "64bcc419-2de9-46b6-90c7-b57baaaea96e"} 
+{:block/content "((64bcc408-4191-4162-8593-81222746b8de))"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "64bcc419-2de9-46b6-90c7-b57baaaea96e"}
+:block/parent 
+{:block/uuid #uuid "64bcafe7-aba6-4703-acfe-2b8b278e666d"}
+:block/uuid #uuid "64bcc422-0718-4bee-8ce6-ed29719d0041"} 
+{:block/content "((64bcc42d-691a-4af4-8b8e-e9b6d99c47e0))"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "64bcc422-0718-4bee-8ce6-ed29719d0041"}
+:block/parent 
+{:block/uuid #uuid "64bcafe7-aba6-4703-acfe-2b8b278e666d"}
+:block/uuid #uuid "64bcc42f-0e3c-488f-8d2d-8209a3c727ee"} 
+{:block/created-at 1690094266953
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:rotation 0
+:collapsed false
+:borderRadius 8
+:index 43
+:scale [1 1]
+:pageId "64bcc42f-0e3c-488f-8d2d-8209a3c727ee"
+:scaleLevel "xl"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [544 306.6042072237688]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "8956dbc0-291f-11ee-a0c2-439ae7c8f2e9"
+:noFill false
+:isLocked false
+:point [5304 -1008]
+:parentId "64bcafe7-aba6-4703-acfe-2b8b278e666d"
+:collapsedHeight 0
+:nonce 1690092592176}}
+:block/updated-at 1690094266953} 
+{:block/created-at 1690094348153
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:rotation 0
+:borderRadius 2
+:index 44
+:scale [1 1]
+:scaleLevel "xl"
+:fill ""
+:type "box"
+:size [1888 464]
+:strokeType "dashed"
+:strokeWidth 4.8
+:opacity 1
+:label ""
+:id "95450ec0-291f-11ee-a0c2-439ae7c8f2e9"
+:fontWeight 400
+:noFill true
+:point [4320 -2656]
+:fontSize 48
+:parentId "64bcafe7-aba6-4703-acfe-2b8b278e666d"
+:nonce 1690092612298
+:italic false}}
+:block/updated-at 1690094348153} 
+{:block/created-at 1690094348150
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 45
+:scale [1 1]
+:scaleLevel "xl"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label "前驱体配制"
+:id "acafee42-291f-11ee-a0c2-439ae7c8f2e9"
+:fontWeight 400
+:noFill true
+:point [3936.5 -2392.5]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 311.5]
+:bindingId "acafee40-291f-11ee-a0c2-439ae7c8f2e9"}
+:end 
+{:id "end"
+:canBind true
+:point [379.5 0]
+:bindingId "acafee41-291f-11ee-a0c2-439ae7c8f2e9"}}
+:decorations 
+{:end "arrow"}
+:parentId "64bcafe7-aba6-4703-acfe-2b8b278e666d"
+:nonce 1690092651468
+:italic false}}
+:block/updated-at 1690094348150} 
+{:block/created-at 1690094261363
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:rotation 0
+:borderRadius 2
+:index 46
+:scale [1 1]
+:scaleLevel "xl"
+:fill ""
+:type "box"
+:size [1552 392]
+:strokeType "line"
+:strokeWidth 4.8
+:opacity 1
+:label ""
+:id "c1f94d50-291f-11ee-a0c2-439ae7c8f2e9"
+:fontWeight 400
+:noFill true
+:point [4344 -2104]
+:fontSize 48
+:parentId "64bcafe7-aba6-4703-acfe-2b8b278e666d"
+:nonce 1690092687142
+:italic false}}
+:block/updated-at 1690094261363} 
+{:block/created-at 1690094261363
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 47
+:scale [1 1]
+:scaleLevel "xl"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label "样品进一步合成"
+:id "c5b6a372-291f-11ee-a0c2-439ae7c8f2e9"
+:fontWeight 400
+:noFill true
+:point [3953 -1849.58]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 1.18]
+:bindingId "c5b6a370-291f-11ee-a0c2-439ae7c8f2e9"}
+:end 
+{:id "end"
+:canBind true
+:point [387 0]
+:bindingId "c5b6a371-291f-11ee-a0c2-439ae7c8f2e9"}}
+:decorations 
+{:end "arrow"}
+:parentId "64bcafe7-aba6-4703-acfe-2b8b278e666d"
+:nonce 1690092693386
+:italic false}}
+:block/updated-at 1690094261363} 
+{:block/created-at 1690092822634
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:rotation 0
+:borderRadius 2
+:index 48
+:scale [1 1]
+:scaleLevel "xl"
+:fill ""
+:type "box"
+:size [1536 456]
+:strokeType "line"
+:strokeWidth 4.8
+:opacity 1
+:label ""
+:id "d145ed90-291f-11ee-a0c2-439ae7c8f2e9"
+:fontWeight 400
+:noFill true
+:isLocked false
+:point [4352 -1640]
+:fontSize 48
+:parentId "64bcafe7-aba6-4703-acfe-2b8b278e666d"
+:nonce 1690092687184
+:italic false}}
+:block/updated-at 1690092822634} 
+{:block/created-at 1690092822634
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 49
+:scale [1 1]
+:scaleLevel "xl"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label "材料表征"
+:id "d5939cd2-291f-11ee-a0c2-439ae7c8f2e9"
+:fontWeight 400
+:noFill true
+:point [3953 -1662.37]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 0]
+:bindingId "d5939cd0-291f-11ee-a0c2-439ae7c8f2e9"}
+:end 
+{:id "end"
+:canBind true
+:point [395 242.93]
+:bindingId "d5939cd1-291f-11ee-a0c2-439ae7c8f2e9"}}
+:decorations 
+{:end "arrow"}
+:parentId "64bcafe7-aba6-4703-acfe-2b8b278e666d"
+:nonce 1690092720031
+:italic false}}
+:block/updated-at 1690092822634} 
+{:block/created-at 1690094266953
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:rotation 0
+:borderRadius 2
+:index 50
+:scale [1 1]
+:scaleLevel "xl"
+:fill ""
+:type "box"
+:size [2192 456]
+:strokeType "line"
+:strokeWidth 4.8
+:opacity 1
+:label ""
+:id "dd9e7b20-291f-11ee-a0c2-439ae7c8f2e9"
+:fontWeight 400
+:noFill true
+:isLocked false
+:point [4344 -1112]
+:fontSize 48
+:parentId "64bcafe7-aba6-4703-acfe-2b8b278e666d"
+:nonce 1690092687440
+:italic false}}
+:block/updated-at 1690094266953} 
+{:block/created-at 1690094266951
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 51
+:scale [1 1]
+:scaleLevel "xl"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label "化学性能评价"
+:id "e8dfcc52-291f-11ee-a0c2-439ae7c8f2e9"
+:fontWeight 400
+:noFill true
+:point [3830.93 -1613.96]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 0]
+:bindingId "e8dfcc50-291f-11ee-a0c2-439ae7c8f2e9"}
+:end 
+{:id "end"
+:canBind true
+:point [509.07 664.4]
+:bindingId "e8dfcc51-291f-11ee-a0c2-439ae7c8f2e9"}}
+:decorations 
+{:end "arrow"}
+:parentId "64bcafe7-aba6-4703-acfe-2b8b278e666d"
+:nonce 1690092752461
+:italic false}}
+:block/updated-at 1690094266951} 
+{:block/content "((64bcc4f4-ee15-4940-b2a3-9cf2a7556806))"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "64bcc42f-0e3c-488f-8d2d-8209a3c727ee"}
+:block/parent 
+{:block/uuid #uuid "64bcafe7-aba6-4703-acfe-2b8b278e666d"}
+:block/uuid #uuid "64bcc4f6-7d4a-4bd4-8125-4451d3101c1c"} 
+{:block/created-at 1690094266953
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:rotation 0
+:collapsed false
+:borderRadius 8
+:index 52
+:scale [1 1]
+:pageId "64bcc4f6-7d4a-4bd4-8125-4451d3101c1c"
+:scaleLevel "xl"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [528 339.68745784425124]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "ffc1a5b0-291f-11ee-a0c2-439ae7c8f2e9"
+:noFill false
+:isLocked false
+:point [5968 -1040]
+:parentId "64bcafe7-aba6-4703-acfe-2b8b278e666d"
+:collapsedHeight 0
+:nonce 1690092790770}}
+:block/updated-at 1690094266953} 
+{:block/content "((64bcc524-7bca-44c8-964a-b1f9d2b05d51))"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "64bcc4f6-7d4a-4bd4-8125-4451d3101c1c"}
+:block/parent 
+{:block/uuid #uuid "64bcafe7-aba6-4703-acfe-2b8b278e666d"}
+:block/uuid #uuid "64bcc525-4e9a-42ee-8e4e-6275cecc3ad9"} 
+{:block/created-at 1690092891150
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:rotation 0
+:collapsed false
+:borderRadius 8
+:index 53
+:scale [1 1]
+:pageId "64bcc525-4e9a-42ee-8e4e-6275cecc3ad9"
+:scaleLevel "xl"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [960 429.8539352416992]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "1ba981d0-2920-11ee-a0c2-439ae7c8f2e9"
+:noFill false
+:isLocked false
+:point [3104 -248]
+:parentId "64bcafe7-aba6-4703-acfe-2b8b278e666d"
+:collapsedHeight 0
+:nonce 1690092837589}}
+:block/updated-at 1690092891150} 
+{:block/created-at 1690092891152
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 54
+:scale [1 1]
+:scaleLevel "xl"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label "计算机视觉"
+:id "1fb37152-2920-11ee-a0c2-439ae7c8f2e9"
+:fontWeight 700
+:noFill true
+:point [2729 -411.56]
+:fontSize 48
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 0]
+:bindingId "1fb37150-2920-11ee-a0c2-439ae7c8f2e9"}
+:end 
+{:id "end"
+:canBind true
+:point [371 293.98]
+:bindingId "1fb37151-2920-11ee-a0c2-439ae7c8f2e9"}}
+:decorations 
+{:end "arrow"}
+:parentId "64bcafe7-aba6-4703-acfe-2b8b278e666d"
+:nonce 1690092844331
+:italic false}}
+:block/updated-at 1690092891152} 
+{:block/content "((64bcc559-afbe-4768-b106-ef21598a910e))"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "64bcc525-4e9a-42ee-8e4e-6275cecc3ad9"}
+:block/parent 
+{:block/uuid #uuid "64bcafe7-aba6-4703-acfe-2b8b278e666d"}
+:block/uuid #uuid "64bcc55d-9f84-4b8e-8572-b304674aba76"} 
+{:block/created-at 1690092916053
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:rotation 0
+:collapsed false
+:borderRadius 8
+:index 55
+:scale [1 1]
+:pageId "64bcc55d-9f84-4b8e-8572-b304674aba76"
+:scaleLevel "xl"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [608 362.5417974574551]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "3d522530-2920-11ee-a0c2-439ae7c8f2e9"
+:noFill false
+:isLocked false
+:point [4144 -208]
+:parentId "64bcafe7-aba6-4703-acfe-2b8b278e666d"
+:collapsedHeight 0
+:nonce 1690092894091}}
+:block/updated-at 1690092916053} 
+{:block/content "((64bcc568-eeab-4915-9c37-d727de5f6764))"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "64bcc55d-9f84-4b8e-8572-b304674aba76"}
+:block/parent 
+{:block/uuid #uuid "64bcafe7-aba6-4703-acfe-2b8b278e666d"}
+:block/uuid #uuid "64bcc569-b76f-4222-8393-da29806e7549"} 
+{:block/created-at 1690092910027
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:rotation 0
+:collapsed false
+:borderRadius 8
+:index 56
+:scale [1 1]
+:pageId "64bcc569-b76f-4222-8393-da29806e7549"
+:scaleLevel "xl"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [928 963.3126320276729]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "444af740-2920-11ee-a0c2-439ae7c8f2e9"
+:noFill false
+:isLocked false
+:point [4864 -440]
+:parentId "64bcafe7-aba6-4703-acfe-2b8b278e666d"
+:collapsedHeight 0
+:nonce 1690092905740}}
+:block/updated-at 1690092910027})
+:pages (
+{:block/uuid #uuid "64bcafe7-aba6-4703-acfe-2b8b278e666d"
+:block/properties 
+{:ls-type :whiteboard-page
+:logseq.tldraw.page 
+{:id "64bcafe7-aba6-4703-acfe-2b8b278e666d"
+:name "高通量/白板"
+:bindings 
+{:e0e485c3-291c-11ee-a0c2-439ae7c8f2e9 
+{:id "e0e485c3-291c-11ee-a0c2-439ae7c8f2e9"
+:type "line"
+:fromId "e0e485c1-291c-11ee-a0c2-439ae7c8f2e9"
+:toId "e0e485c0-291c-11ee-a0c2-439ae7c8f2e9"
+:handleId "end"
+:point [0.5 0.5]
+:distance 4}
+:f2ca5962-291a-11ee-a0c2-439ae7c8f2e9 
+{:id "f2ca5962-291a-11ee-a0c2-439ae7c8f2e9"
+:type "line"
+:fromId "f2ca5961-291a-11ee-a0c2-439ae7c8f2e9"
+:toId "878a76a0-2913-11ee-a0c2-439ae7c8f2e9"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:e8dfcc51-291f-11ee-a0c2-439ae7c8f2e9 
+{:id "e8dfcc51-291f-11ee-a0c2-439ae7c8f2e9"
+:type "line"
+:fromId "e8dfcc52-291f-11ee-a0c2-439ae7c8f2e9"
+:toId "dd9e7b20-291f-11ee-a0c2-439ae7c8f2e9"
+:handleId "end"
+:point [0.06 0.73]
+:distance 4}
+:46c685f0-291d-11ee-a0c2-439ae7c8f2e9 
+{:id "46c685f0-291d-11ee-a0c2-439ae7c8f2e9"
+:type "line"
+:fromId "46c685f2-291d-11ee-a0c2-439ae7c8f2e9"
+:toId "ee66ed50-291c-11ee-a0c2-439ae7c8f2e9"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:d7a9da02-291c-11ee-a0c2-439ae7c8f2e9 
+{:id "d7a9da02-291c-11ee-a0c2-439ae7c8f2e9"
+:type "line"
+:fromId "d7a9da00-291c-11ee-a0c2-439ae7c8f2e9"
+:toId "d7a98be0-291c-11ee-a0c2-439ae7c8f2e9"
+:handleId "end"
+:point [0.5 0.5]
+:distance 4}
+:acafee41-291f-11ee-a0c2-439ae7c8f2e9 
+{:id "acafee41-291f-11ee-a0c2-439ae7c8f2e9"
+:type "line"
+:fromId "acafee42-291f-11ee-a0c2-439ae7c8f2e9"
+:toId "95450ec0-291f-11ee-a0c2-439ae7c8f2e9"
+:handleId "end"
+:point [0.09 0.27]
+:distance 4}
+:c5b6a371-291f-11ee-a0c2-439ae7c8f2e9 
+{:id "c5b6a371-291f-11ee-a0c2-439ae7c8f2e9"
+:type "line"
+:fromId "c5b6a372-291f-11ee-a0c2-439ae7c8f2e9"
+:toId "c1f94d50-291f-11ee-a0c2-439ae7c8f2e9"
+:handleId "end"
+:point [0.51 0.64]
+:distance 4}
+:f2ca5963-291a-11ee-a0c2-439ae7c8f2e9 
+{:id "f2ca5963-291a-11ee-a0c2-439ae7c8f2e9"
+:type "line"
+:fromId "f2ca5961-291a-11ee-a0c2-439ae7c8f2e9"
+:toId "f2ca5960-291a-11ee-a0c2-439ae7c8f2e9"
+:handleId "end"
+:point [0.5 0.5]
+:distance 4}
+:16f07fe1-291b-11ee-a0c2-439ae7c8f2e9 
+{:id "16f07fe1-291b-11ee-a0c2-439ae7c8f2e9"
+:type "line"
+:fromId "16f0a6f0-291b-11ee-a0c2-439ae7c8f2e9"
+:toId "9bf50a40-291a-11ee-a0c2-439ae7c8f2e9"
+:handleId "end"
+:point [0.27 0.29]
+:distance 4}
+:95d37372-291c-11ee-a0c2-439ae7c8f2e9 
+{:id "95d37372-291c-11ee-a0c2-439ae7c8f2e9"
+:type "line"
+:fromId "95d37371-291c-11ee-a0c2-439ae7c8f2e9"
+:toId "5dedc230-291c-11ee-a0c2-439ae7c8f2e9"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:926c9733-291b-11ee-a0c2-439ae7c8f2e9 
+{:id "926c9733-291b-11ee-a0c2-439ae7c8f2e9"
+:type "line"
+:fromId "926c9731-291b-11ee-a0c2-439ae7c8f2e9"
+:toId "926c9730-291b-11ee-a0c2-439ae7c8f2e9"
+:handleId "end"
+:point [0.5 0.5]
+:distance 4}
+:34312351-291d-11ee-a0c2-439ae7c8f2e9 
+{:id "34312351-291d-11ee-a0c2-439ae7c8f2e9"
+:type "line"
+:fromId "34312352-291d-11ee-a0c2-439ae7c8f2e9"
+:toId "ee66ed50-291c-11ee-a0c2-439ae7c8f2e9"
+:handleId "end"
+:point [0.22 0.62]
+:distance 4}
+:926c9732-291b-11ee-a0c2-439ae7c8f2e9 
+{:id "926c9732-291b-11ee-a0c2-439ae7c8f2e9"
+:type "line"
+:fromId "926c9731-291b-11ee-a0c2-439ae7c8f2e9"
+:toId "61493520-290f-11ee-ba3f-47d6e5cefc1d"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:68a31c81-291b-11ee-a0c2-439ae7c8f2e9 
+{:id "68a31c81-291b-11ee-a0c2-439ae7c8f2e9"
+:type "line"
+:fromId "68a31c80-291b-11ee-a0c2-439ae7c8f2e9"
+:toId "f2ca5960-291a-11ee-a0c2-439ae7c8f2e9"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:2d2ec642-291b-11ee-a0c2-439ae7c8f2e9 
+{:id "2d2ec642-291b-11ee-a0c2-439ae7c8f2e9"
+:type "line"
+:fromId "2d2ec641-291b-11ee-a0c2-439ae7c8f2e9"
+:toId "f2ca5960-291a-11ee-a0c2-439ae7c8f2e9"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:878a9db1-2913-11ee-a0c2-439ae7c8f2e9 
+{:id "878a9db1-2913-11ee-a0c2-439ae7c8f2e9"
+:type "line"
+:fromId "878a9db0-2913-11ee-a0c2-439ae7c8f2e9"
+:toId "61493520-290f-11ee-ba3f-47d6e5cefc1d"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:e8300bb1-291c-11ee-a0c2-439ae7c8f2e9 
+{:id "e8300bb1-291c-11ee-a0c2-439ae7c8f2e9"
+:type "line"
+:fromId "e8300bb0-291c-11ee-a0c2-439ae7c8f2e9"
+:toId "e0e485c0-291c-11ee-a0c2-439ae7c8f2e9"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:878a9db2-2913-11ee-a0c2-439ae7c8f2e9 
+{:id "878a9db2-2913-11ee-a0c2-439ae7c8f2e9"
+:type "line"
+:fromId "878a9db0-2913-11ee-a0c2-439ae7c8f2e9"
+:toId "878a76a0-2913-11ee-a0c2-439ae7c8f2e9"
+:handleId "end"
+:point [0.5 0.5]
+:distance 4}
+:d5939cd0-291f-11ee-a0c2-439ae7c8f2e9 
+{:id "d5939cd0-291f-11ee-a0c2-439ae7c8f2e9"
+:type "line"
+:fromId "d5939cd2-291f-11ee-a0c2-439ae7c8f2e9"
+:toId "68a2f570-291b-11ee-a0c2-439ae7c8f2e9"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:c5b6a370-291f-11ee-a0c2-439ae7c8f2e9 
+{:id "c5b6a370-291f-11ee-a0c2-439ae7c8f2e9"
+:type "line"
+:fromId "c5b6a372-291f-11ee-a0c2-439ae7c8f2e9"
+:toId "68a2f570-291b-11ee-a0c2-439ae7c8f2e9"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:d7a9da01-291c-11ee-a0c2-439ae7c8f2e9 
+{:id "d7a9da01-291c-11ee-a0c2-439ae7c8f2e9"
+:type "line"
+:fromId "d7a9da00-291c-11ee-a0c2-439ae7c8f2e9"
+:toId "95d37370-291c-11ee-a0c2-439ae7c8f2e9"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:3df694d2-291b-11ee-a0c2-439ae7c8f2e9 
+{:id "3df694d2-291b-11ee-a0c2-439ae7c8f2e9"
+:type "line"
+:fromId "3df694d1-291b-11ee-a0c2-439ae7c8f2e9"
+:toId "f2ca5960-291a-11ee-a0c2-439ae7c8f2e9"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:e0e485c2-291c-11ee-a0c2-439ae7c8f2e9 
+{:id "e0e485c2-291c-11ee-a0c2-439ae7c8f2e9"
+:type "line"
+:fromId "e0e485c1-291c-11ee-a0c2-439ae7c8f2e9"
+:toId "5dedc230-291c-11ee-a0c2-439ae7c8f2e9"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:46c685f1-291d-11ee-a0c2-439ae7c8f2e9 
+{:id "46c685f1-291d-11ee-a0c2-439ae7c8f2e9"
+:type "line"
+:fromId "46c685f2-291d-11ee-a0c2-439ae7c8f2e9"
+:toId "220e1d70-2910-11ee-ba3f-47d6e5cefc1d"
+:handleId "end"
+:point [0.85 0.63]
+:distance 4}
+:69c18f61-291c-11ee-a0c2-439ae7c8f2e9 
+{:id "69c18f61-291c-11ee-a0c2-439ae7c8f2e9"
+:type "line"
+:fromId "69c18f62-291c-11ee-a0c2-439ae7c8f2e9"
+:toId "5dedc230-291c-11ee-a0c2-439ae7c8f2e9"
+:handleId "end"
+:point [0.15 0.85]
+:distance 4}
+:2d2ec643-291b-11ee-a0c2-439ae7c8f2e9 
+{:id "2d2ec643-291b-11ee-a0c2-439ae7c8f2e9"
+:type "line"
+:fromId "2d2ec641-291b-11ee-a0c2-439ae7c8f2e9"
+:toId "2d2ec640-291b-11ee-a0c2-439ae7c8f2e9"
+:handleId "end"
+:point [0.5 0.5]
+:distance 4}
+:acafee40-291f-11ee-a0c2-439ae7c8f2e9 
+{:id "acafee40-291f-11ee-a0c2-439ae7c8f2e9"
+:type "line"
+:fromId "acafee42-291f-11ee-a0c2-439ae7c8f2e9"
+:toId "68a2f570-291b-11ee-a0c2-439ae7c8f2e9"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:8e751e41-291b-11ee-a0c2-439ae7c8f2e9 
+{:id "8e751e41-291b-11ee-a0c2-439ae7c8f2e9"
+:type "line"
+:fromId "8e751e40-291b-11ee-a0c2-439ae7c8f2e9"
+:toId "61493520-290f-11ee-ba3f-47d6e5cefc1d"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:e8dfcc50-291f-11ee-a0c2-439ae7c8f2e9 
+{:id "e8dfcc50-291f-11ee-a0c2-439ae7c8f2e9"
+:type "line"
+:fromId "e8dfcc52-291f-11ee-a0c2-439ae7c8f2e9"
+:toId "68a2f570-291b-11ee-a0c2-439ae7c8f2e9"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:69c18f60-291c-11ee-a0c2-439ae7c8f2e9 
+{:id "69c18f60-291c-11ee-a0c2-439ae7c8f2e9"
+:type "line"
+:fromId "69c18f62-291c-11ee-a0c2-439ae7c8f2e9"
+:toId "878a76a0-2913-11ee-a0c2-439ae7c8f2e9"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:1fb37151-2920-11ee-a0c2-439ae7c8f2e9 
+{:id "1fb37151-2920-11ee-a0c2-439ae7c8f2e9"
+:type "line"
+:fromId "1fb37152-2920-11ee-a0c2-439ae7c8f2e9"
+:toId "1ba981d0-2920-11ee-a0c2-439ae7c8f2e9"
+:handleId "end"
+:point [0.27 0.78]
+:distance 4}
+:1fb37150-2920-11ee-a0c2-439ae7c8f2e9 
+{:id "1fb37150-2920-11ee-a0c2-439ae7c8f2e9"
+:type "line"
+:fromId "1fb37152-2920-11ee-a0c2-439ae7c8f2e9"
+:toId "f2ca5960-291a-11ee-a0c2-439ae7c8f2e9"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:8e751e42-291b-11ee-a0c2-439ae7c8f2e9 
+{:id "8e751e42-291b-11ee-a0c2-439ae7c8f2e9"
+:type "line"
+:fromId "8e751e40-291b-11ee-a0c2-439ae7c8f2e9"
+:toId "8e74d020-291b-11ee-a0c2-439ae7c8f2e9"
+:handleId "end"
+:point [0.5 0.5]
+:distance 4}
+:3df694d3-291b-11ee-a0c2-439ae7c8f2e9 
+{:id "3df694d3-291b-11ee-a0c2-439ae7c8f2e9"
+:type "line"
+:fromId "3df694d1-291b-11ee-a0c2-439ae7c8f2e9"
+:toId "3df694d0-291b-11ee-a0c2-439ae7c8f2e9"
+:handleId "end"
+:point [0.5 0.5]
+:distance 4}
+:e8300bb2-291c-11ee-a0c2-439ae7c8f2e9 
+{:id "e8300bb2-291c-11ee-a0c2-439ae7c8f2e9"
+:type "line"
+:fromId "e8300bb0-291c-11ee-a0c2-439ae7c8f2e9"
+:toId "e82fe4a0-291c-11ee-a0c2-439ae7c8f2e9"
+:handleId "end"
+:point [0.5 0.5]
+:distance 4}
+:4e773651-291d-11ee-a0c2-439ae7c8f2e9 
+{:id "4e773651-291d-11ee-a0c2-439ae7c8f2e9"
+:type "line"
+:fromId "34312352-291d-11ee-a0c2-439ae7c8f2e9"
+:toId "5dedc230-291c-11ee-a0c2-439ae7c8f2e9"
+:handleId "start"
+:point [0.6 0.43]
+:distance 4}
+:95d37373-291c-11ee-a0c2-439ae7c8f2e9 
+{:id "95d37373-291c-11ee-a0c2-439ae7c8f2e9"
+:type "line"
+:fromId "95d37371-291c-11ee-a0c2-439ae7c8f2e9"
+:toId "95d37370-291c-11ee-a0c2-439ae7c8f2e9"
+:handleId "end"
+:point [0.5 0.5]
+:distance 4}
+:d5939cd1-291f-11ee-a0c2-439ae7c8f2e9 
+{:id "d5939cd1-291f-11ee-a0c2-439ae7c8f2e9"
+:type "line"
+:fromId "d5939cd2-291f-11ee-a0c2-439ae7c8f2e9"
+:toId "d145ed90-291f-11ee-a0c2-439ae7c8f2e9"
+:handleId "end"
+:point [0.13 0.75]
+:distance 4}
+:16f07fe0-291b-11ee-a0c2-439ae7c8f2e9 
+{:id "16f07fe0-291b-11ee-a0c2-439ae7c8f2e9"
+:type "line"
+:fromId "16f0a6f0-291b-11ee-a0c2-439ae7c8f2e9"
+:toId "878a76a0-2913-11ee-a0c2-439ae7c8f2e9"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:68a31c82-291b-11ee-a0c2-439ae7c8f2e9 
+{:id "68a31c82-291b-11ee-a0c2-439ae7c8f2e9"
+:type "line"
+:fromId "68a31c80-291b-11ee-a0c2-439ae7c8f2e9"
+:toId "68a2f570-291b-11ee-a0c2-439ae7c8f2e9"
+:handleId "end"
+:point [0.5 0.5]
+:distance 4}}
+:nonce 1
+:assets [
+{:id "878a4f90-2913-11ee-a0c2-439ae7c8f2e9"
+:type "pdf"
+:src "../assets/An_all-round_AI-Chemist_with_a_scientific_mind_1690087088640_0.pdf"
+:size [595 842]}]
+:shapes-index ("61493520-290f-11ee-ba3f-47d6e5cefc1d" "220e1d70-2910-11ee-ba3f-47d6e5cefc1d" "878a76a0-2913-11ee-a0c2-439ae7c8f2e9" "878a9db0-2913-11ee-a0c2-439ae7c8f2e9" "9bf50a40-291a-11ee-a0c2-439ae7c8f2e9" "f2ca5960-291a-11ee-a0c2-439ae7c8f2e9" "f2ca5961-291a-11ee-a0c2-439ae7c8f2e9" "16f0a6f0-291b-11ee-a0c2-439ae7c8f2e9" "2d2ec640-291b-11ee-a0c2-439ae7c8f2e9" "2d2ec641-291b-11ee-a0c2-439ae7c8f2e9" "3df694d0-291b-11ee-a0c2-439ae7c8f2e9" "3df694d1-291b-11ee-a0c2-439ae7c8f2e9" "68a2f570-291b-11ee-a0c2-439ae7c8f2e9" "68a31c80-291b-11ee-a0c2-439ae7c8f2e9" "8e74d020-291b-11ee-a0c2-439ae7c8f2e9" "8e751e40-291b-11ee-a0c2-439ae7c8f2e9" "926c9730-291b-11ee-a0c2-439ae7c8f2e9" "926c9731-291b-11ee-a0c2-439ae7c8f2e9" "95d37370-291c-11ee-a0c2-439ae7c8f2e9" "69c18f62-291c-11ee-a0c2-439ae7c8f2e9" "95d37371-291c-11ee-a0c2-439ae7c8f2e9" "5dedc230-291c-11ee-a0c2-439ae7c8f2e9" "d7a98be0-291c-11ee-a0c2-439ae7c8f2e9" "d7a9da00-291c-11ee-a0c2-439ae7c8f2e9" "e0e485c0-291c-11ee-a0c2-439ae7c8f2e9" "e0e485c1-291c-11ee-a0c2-439ae7c8f2e9" "e82fe4a0-291c-11ee-a0c2-439ae7c8f2e9" "e8300bb0-291c-11ee-a0c2-439ae7c8f2e9" "ee66ed50-291c-11ee-a0c2-439ae7c8f2e9" "34312352-291d-11ee-a0c2-439ae7c8f2e9" "46c685f2-291d-11ee-a0c2-439ae7c8f2e9" "067a7370-291e-11ee-a0c2-439ae7c8f2e9" "18eb8530-291e-11ee-a0c2-439ae7c8f2e9" "1a692480-291e-11ee-a0c2-439ae7c8f2e9" "ade4e140-291e-11ee-a0c2-439ae7c8f2e9" "bad60550-291e-11ee-a0c2-439ae7c8f2e9" "15207e00-291f-11ee-a0c2-439ae7c8f2e9" "1d9dcd30-291f-11ee-a0c2-439ae7c8f2e9" "359d72a0-291f-11ee-a0c2-439ae7c8f2e9" "3dc01eb0-291f-11ee-a0c2-439ae7c8f2e9" "41b48a60-291f-11ee-a0c2-439ae7c8f2e9" "5fee45c0-291f-11ee-a0c2-439ae7c8f2e9" "6cfd7920-291f-11ee-a0c2-439ae7c8f2e9" "8956dbc0-291f-11ee-a0c2-439ae7c8f2e9" "95450ec0-291f-11ee-a0c2-439ae7c8f2e9" "acafee42-291f-11ee-a0c2-439ae7c8f2e9" "c1f94d50-291f-11ee-a0c2-439ae7c8f2e9" "c5b6a372-291f-11ee-a0c2-439ae7c8f2e9" "d145ed90-291f-11ee-a0c2-439ae7c8f2e9" "d5939cd2-291f-11ee-a0c2-439ae7c8f2e9" "dd9e7b20-291f-11ee-a0c2-439ae7c8f2e9" "e8dfcc52-291f-11ee-a0c2-439ae7c8f2e9" "ffc1a5b0-291f-11ee-a0c2-439ae7c8f2e9" "1ba981d0-2920-11ee-a0c2-439ae7c8f2e9" "1fb37152-2920-11ee-a0c2-439ae7c8f2e9" "3d522530-2920-11ee-a0c2-439ae7c8f2e9" "444af740-2920-11ee-a0c2-439ae7c8f2e9")}}
+:block/journal? false
+:block/namespace 
+{:db/id 33}
+:block/updated-at 1690094418059
+:block/created-at 1690087399860
+:block/type "whiteboard"
+:block/name "高通量/白板"
+:block/original-name "高通量/白板"})}

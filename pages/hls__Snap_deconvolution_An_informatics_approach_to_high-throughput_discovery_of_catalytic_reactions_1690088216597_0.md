@@ -1,0 +1,31 @@
+file:: [Snap_deconvolution_An_informatics_approach_to_high-throughput_discovery_of_catalytic_reactions_1690088216597_0.pdf](../assets/Snap_deconvolution_An_informatics_approach_to_high-throughput_discovery_of_catalytic_reactions_1690088216597_0.pdf)
+file-path:: ../assets/Snap_deconvolution_An_informatics_approach_to_high-throughput_discovery_of_catalytic_reactions_1690088216597_0.pdf
+
+- [:span]
+  ls-type:: annotation
+  hl-page:: 2
+  hl-color:: yellow
+  id:: 64bcc59f-075f-41e6-840e-25b60a3c04b8
+  hl-type:: area
+  hl-stamp:: 1690092958581
+- [:span]
+  ls-type:: annotation
+  hl-page:: 2
+  hl-color:: yellow
+  id:: 64bcc597-e321-4346-a96f-55b459a229ce
+  hl-type:: area
+  hl-stamp:: 1690092950464
+- [:span]
+  ls-type:: annotation
+  hl-page:: 3
+  hl-color:: yellow
+  id:: 64bcc5ad-daea-48cd-9f6b-f7deda41fd9d
+  hl-type:: area
+  hl-stamp:: 1690092973200
+- [:span]
+  ls-type:: annotation
+  hl-page:: 4
+  hl-color:: yellow
+  id:: 64bcc5b3-e75a-41a0-9b39-2c78ba6f9932
+  hl-type:: area
+  hl-stamp:: 1690092978499
