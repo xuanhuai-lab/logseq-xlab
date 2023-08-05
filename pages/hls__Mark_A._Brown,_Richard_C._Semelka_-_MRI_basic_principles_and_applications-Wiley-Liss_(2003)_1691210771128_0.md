@@ -1,0 +1,59 @@
+file:: [Mark_A._Brown,_Richard_C._Semelka_-_MRI_basic_principles_and_applications-Wiley-Liss_(2003)_1691210771128_0.pdf](../assets/Mark_A._Brown,_Richard_C._Semelka_-_MRI_basic_principles_and_applications-Wiley-Liss_(2003)_1691210771128_0.pdf)
+file-path:: ../assets/Mark_A._Brown,_Richard_C._Semelka_-_MRI_basic_principles_and_applications-Wiley-Liss_(2003)_1691210771128_0.pdf
+
+- [:span]
+  ls-type:: annotation
+  hl-page:: 15
+  hl-color:: yellow
+  id:: 64cdd71f-1b49-49fc-8d13-dea4391f6c13
+  hl-type:: area
+  hl-stamp:: 1691211550163
+- [:span]
+  ls-type:: annotation
+  hl-page:: 16
+  hl-color:: yellow
+  id:: 64cdd727-af5b-405a-8a5a-2d1d6e6d0ae6
+  hl-type:: area
+  hl-stamp:: 1691211559183
+- [:span]
+  ls-type:: annotation
+  hl-page:: 18
+  hl-color:: yellow
+  id:: 64cdd735-48f0-4b7a-8340-c3859adbe440
+  hl-type:: area
+  hl-stamp:: 1691211572841
+- [:span]
+  ls-type:: annotation
+  hl-page:: 24
+  hl-color:: yellow
+  id:: 64cdd868-0659-48b6-adb3-1ca6e2527741
+  hl-type:: area
+  hl-stamp:: 1691211879468
+- [:span]
+  ls-type:: annotation
+  hl-page:: 29
+  hl-color:: yellow
+  id:: 64cdd900-759f-49a1-acd8-c71f485eb0b2
+  hl-type:: area
+  hl-stamp:: 1691212031294
+- [:span]
+  ls-type:: annotation
+  hl-page:: 46
+  hl-color:: yellow
+  id:: 64cdd981-5c6d-481e-8b09-a5b1c4d798d8
+  hl-type:: area
+  hl-stamp:: 1691212160316
+- [:span]
+  ls-type:: annotation
+  hl-page:: 49
+  hl-color:: yellow
+  id:: 64cdd990-33fb-40a4-8bf6-39594d7605e2
+  hl-type:: area
+  hl-stamp:: 1691212175151
+- [:span]
+  ls-type:: annotation
+  hl-page:: 52
+  hl-color:: yellow
+  id:: 64cdd99a-69a0-402f-b6ad-a7f081866b87
+  hl-type:: area
+  hl-stamp:: 1691212184659
