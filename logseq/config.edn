@@ -292,7 +292,7 @@
  ;;  :journal?        false} ; Default value: false
 
  ;; Favorites to list on the left sidebar
- :favorites []
+ :favorites ["无液氦mri" "无液氦mris/白板" "无液氦mri/白板"]
 
  ;; Set flashcards interval.
  ;; Expected value:
