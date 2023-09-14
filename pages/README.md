@@ -4,15 +4,10 @@
 - ## 行研扫盲
 	- ### [如何快速了解一个行业 - 麦肯锡教我的研究方法](https://www.bilibili.com/video/BV1t3411W7Ad/) #产业链 #波特五力
 	- <iframe frameborder="no" framespacing="0" width="560" src="https://player.bilibili.com/player.html?bvid=BV1t3411W7Ad&high_quality=1&autoplay=0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope" allowfullscreen="" scrolling="no" border="0" height="360"></iframe>
-- ## 企业
+- ## 核心概念
+	- ### [[财务报表]]
 	- ### [[波特五力]]
 	- ### [[商业模式]]
-- ## [[财务报表]]
-	- |[2022-Bruker-Annual-Report.pdf](https://s22.q4cdn.com/617463959/files/doc_financials/2022/ar/2022-Bruker-Annual-Report.pdf)|[华为2022年年度报告](https://www-file.huawei.com/minisite/media/annual_report/annual_report_2022_cn.pdf)|
-	  | ![image.png](../assets/image_1694535088159_0.png) | ![image.png](../assets/image_1694535381772_0.png) |
-	  | ![image.png](../assets/image_1694534869318_0.png) | ![image.png](../assets/image_1694535451979_0.png) |
-	  | ![image.png](../assets/image_1694535140473_0.png) | ![image.png](../assets/image_1694535572649_0.png) |
-		- 推荐关注 —— [财务分析沈老师](https://space.bilibili.com/504556764)
 - ## [[信息源]]
 	- ### 年报
 		- >通常位于：公司官网 - 投资者关系 (Investor Relations)
