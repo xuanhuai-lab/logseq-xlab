@@ -1,0 +1,289 @@
+/*-----------*/ 
+/* || Backup */
+/*-----------*/ 
+
+/*
+div[data-refs-self*="noind" i] .block-children{
+  background: rgba(0, 0, 0, 0.5);
+  margin-left: 0px !important;
+}
+
+iframe[src*='youtube'] {
+  height: 100px !important;
+}
+
+iframe[src*='bilibili'] {
+  height: 100px !important;
+}
+
+:not(pre)>code {
+    color: white;
+    background-color: green;
+}
+
+* {
+  font-family: "思源黑体";
+}
+
+i {
+  /*font-family: "华光黑变_CNKI";*/ 
+  /*font-family: "华光中长宋_CNKI";*/ 
+  /* font-family: "华光中长宋_CNKI";
+}
+
+.document-mode {
+	text-indent: 2em;
+}
+*/ 
+
+/*-----------------------*/ 
+/* || Fix Bug (in 0.5.4) */
+/*-----------------------*/ 
+
+/* Fix/highlight */
+/* mark {
+  padding: 2px 4px;
+} */
+
+/* Fix/pdf toolbar */
+/* https://github.com/logseq/logseq/pull/4511/files */
+/* .extensions__pdf-toolbar {
+  right: 20px;
+  width: 90%;
+  padding-right: 0;
+} */
+
+/*--------------*/ 
+/* || UTILITIES */
+/*--------------*/ 
+a.tag {
+    font-size: 13px;
+  }
+  
+  .ui__button {
+    display: initial;
+  }
+  
+  .breadcrumb>a>span::after,
+  /* .breadcrumb>a>span:has(> div[data-type="annotation"])::after, */
+  .block-ref>div:not([data-type="annotation"])::after{
+    content:"go";
+    padding:0.5rem;
+    font-size: 0.6rem;
+    vertical-align: middle;
+    opacity: 0.3;
+  }
+  
+  kbd {
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    -o-border-radius: 4px;
+    -khtml-border-radius: 4px;
+    border-radius: 4px;
+    border-style: outset;
+    border: 1px solid #aaa;
+    background: #fafafa;
+    padding: 0px 3px 1px 3px;
+    margin: 0px 0px 0px 0px;
+    vertical-align: baseline;
+    line-height: 1.8em;
+    white-space: nowrap;
+  }
+  
+  .bullet-container.bullet-closed {
+    box-shadow: 0 0 4px 4px  var(--ls-block-bullet-border-color) ;
+  }
+  
+  :root {
+      --ls-scrollbar-width: 10px;
+  }
+  
+  .pb-24 {
+    padding-bottom: 30rem;
+  }
+  
+  /*-------------------*/ 
+  /* || General styles */
+  /*-------------------*/ 
+  b {
+    /*font-family: "华光黑变_CNKI";*/ 
+    /*font-family: "华光中长宋_CNKI";*/ 
+    font-family: arial, "华光小标宋_CNKI";
+  }
+  
+  blockquote {
+    font-family: Georgia, "华文中宋";
+    /* color: rgba(255, 200, 200, 0.5)  */
+  }
+  
+  .block-content[data-type=annotation] {
+    font-family: Georgia, "楷体";
+    /* background-color: rgba(100, 100, 0, 0.1)  */
+  }
+  .block-content[data-type=annotation] .block-ref {
+    display: inline;
+    font-size: inherit;
+    border-bottom: 1.5px;
+    border-bottom-color: rgba(96, 142, 145, 0.5);
+  }
+  
+  .block-ref {
+    display: inline;
+    font-size: inherit;
+    border-bottom: 1.5px;
+    border-bottom-style: solid;
+    border-bottom-color: rgba(96, 142, 145, 0.5);
+  }
+  .block-ref div {
+  display: inline;
+  }
+  
+  /*---------------*/ 
+  /* || Typography */
+  /*---------------*/ 
+  .ls-block h1::after {
+      content: "h1";
+  }
+  
+  .ls-block h2::after {
+      content: "h2";
+  }
+  
+  .ls-block h3::after {
+      content: "h3";
+  }
+  
+  .ls-block h4::after {
+      content: "h4";
+  }
+  
+  .ls-block :is(h1, h2, h3, h4, h5)::after {
+      margin-left: 0.5rem;
+      font-size: 0.6rem;
+      vertical-align: middle;
+      opacity: 0.3;
+  }
+    
+  /*---------*/ 
+  /* || Tags */
+  /*---------*/ 
+  
+  
+  /*-----------*/ 
+  /* || kanban */
+  /*-----------*/ 
+  
+  /* https://github.com/cannibalox/logtools */
+  
+  div[data-refs-self*="kanban"]>.block-children-container.flex {
+    width: 100%;
+  }
+  
+  div[data-refs-self*="kanban"]>.block-children-container.flex>.block-children.w-full {
+    display: inline-flex;
+    position: relative;
+    overflow-x: auto;
+    overflow-y: hidden;
+    margin: 0 10px;
+  }
+  
+  div[data-refs-self*="kanban"]>.block-children-container.flex>.block-children.w-full>div.ls-block {
+    display: inline-block;
+    padding: 0;
+    width: inherit;
+    min-width: 200px;
+    margin-right: 10px;
+  }
+  
+  /* remove left border for kanbanized */
+  [data-refs-self*="kanban"] .block-children-left-border {
+    opacity: 0;
+  }
+  
+  .block-children {
+    overflow: visible !important;
+  }
+  
+  .ls-block[data-refs-self*="kanban"] .absolute-modal,
+  .ls-block[data-refs-self*="kanban"] #ui__ac {
+    min-height: 80px;
+  }
+  
+  /*--------------------------------------------- kanban end-- */
+  
+  
+  
+  
+  
+  /*-------------------*/ 
+  /* || External links */
+  /*-------------------*/ 
+  /*
+  
+  .external-link::before {
+    content: "";
+    display: inline-block;
+    width: 16px;
+    height: 1.2em;
+    background-size: 16px 16px;
+    background-repeat: no-repeat;
+    background-position: 0 50%;
+    margin-right: 4px;
+    vertical-align: text-bottom;
+    background-image: var(--fav, url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGNsYXNzPSJpY29uIGljb24tdGFibGVyIGljb24tdGFibGVyLWxpbmsiIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZT0iY3VycmVudENvbG9yIiBmaWxsPSJub25lIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxkZXNjPkRvd25sb2FkIG1vcmUgaWNvbiB2YXJpYW50cyBmcm9tIGh0dHBzOi8vdGFibGVyLWljb25zLmlvL2kvbGluazwvZGVzYz48cGF0aCBzdHJva2U9Im5vbmUiIGQ9Ik0wIDBoMjR2MjRIMHoiIGZpbGw9Im5vbmUiPjwvcGF0aD48cGF0aCBkPSJNMTAgMTRhMy41IDMuNSAwIDAgMCA1IDBsNCAtNGEzLjUgMy41IDAgMCAwIC01IC01bC0uNSAuNSI+PC9wYXRoPjxwYXRoIGQ9Ik0xNCAxMGEzLjUgMy41IDAgMCAwIC01IDBsLTQgNGEzLjUgMy41IDAgMCAwIDUgNWwuNSAtLjUiPjwvcGF0aD48L3N2Zz4=));
+    background-image: url(https://octodex.github.com/original/);
+  }
+  .external-link[href*="vimeo.com"]::before {
+    background-image: url(https://vimeo.com/favicon.ico);
+  }
+  .external-link[href*="youtube.com"]::before {
+    background-image: url(https://youtube.com/favicon.ico);
+  }
+  .external-link[href*="microsoft.com"]::before {
+    background-image: url(https://microsoft.com/favicon.ico);
+  }
+  .external-link[href*="mozilla.org"]::before {
+    background-image: url(https://developer.mozilla.org/favicon.ico);
+  }
+  .external-link[href*="github.com"]::before {
+    background-image: url(https://github.com/favicon.ico);
+    
+  }
+  .external-link[href*="stackoverflow.com"]::before {
+    background-image: url(https://stackoverflow.com/favicon.ico);
+  }
+  .external-link[href*="dev.to"]::before {
+    background-image: url(https://icons.duckduckgo.com/ip3/dev.to.ico);
+  }
+  .external-link[href*="twitter.com"]::before {
+    background-image: url(https://twitter.com/favicon.ico);
+  }
+  .external-link[href*="reddit.com"]::before {
+    background-image: url(https://www.reddit.com/favicon.ico);
+  }
+  .external-link[href*="pinterest.com"]::before {
+    background-image: url(https://icons.duckduckgo.com/ip3/pinterest.com.ico);
+  }
+  .external-link[href*="wikipedia.org"]::before {
+    background-image: url(https://wikipedia.org/favicon.ico);
+  }
+  .external-link[href*="medium.com"]::before {
+    background-image: url(https://icons.duckduckgo.com/ip3/medium.com.ico);
+  }
+  .external-link[href*="discord.com"]::before {
+    background-image: url(https://icons.duckduckgo.com/ip3/discord.com.ico);
+  }
+  .external-link[href*="amazon."]::before {
+    background-image: url(https://www.amazon.com/favicon.ico);
+  }
+  .external-link[href*="aliexpress.com"]::before {
+    background-image: url(https://www.aliexpress.com/favicon.ico);
+  }
+  .external-link[href*="ebay.com"]::before {
+    background-image: url(https://www.ebay.com/favicon.ico);
+  }
+  .external-link[href*="banggood.com"]::before {
+    background-image: url(https://www.banggood.com/favicon.ico);
+  }
+  */
+  
