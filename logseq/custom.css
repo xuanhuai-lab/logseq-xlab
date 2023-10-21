@@ -1,6 +1,11 @@
 /* @import url("https://fastly.jsdelivr.net/gh/pengx17/logseq-dev-theme@main/custom.css"); */
 /* @import url("logseq/logseq-dev-theme.css"); */
 
+.pb-24 {
+  padding-bottom: 30rem !important;
+}
+
+
 div[data-refs-self*="Example" i] {
   background: rgba(0, 0, 0, 0.1);
   border: 2px solid;
